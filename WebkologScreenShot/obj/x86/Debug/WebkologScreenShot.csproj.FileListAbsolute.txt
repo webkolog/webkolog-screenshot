@@ -1,0 +1,10 @@
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.AboutBox1.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.Form1.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.frmScreenshot.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.Properties.Resources.resources
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.csproj.GenerateResource.Cache
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\bin\Debug\WebkologScreenShot.exe
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\bin\Debug\WebkologScreenShot.pdb
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.exe
+c:\users\webkolog\documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.pdb
+C:\Users\webkolog\Documents\visual studio 2010\Projects\WebkologScreenShot\WebkologScreenShot\obj\x86\Debug\WebkologScreenShot.csprojResolveAssemblyReference.cache
